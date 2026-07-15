@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+div {
+    background-color: green;
+}
+.navbar {
+    color:white;
+}
